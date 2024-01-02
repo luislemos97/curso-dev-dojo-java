@@ -1,5 +1,5 @@
 
-# Dio | Resumos Curso Java - DevDojo
+# Resumos Curso Java - DevDojo
 
 Repositório para armazenar resumos do curso de Java [ DevDojo ] (https://www.youtube.com/@DevDojoBrasil)
 
