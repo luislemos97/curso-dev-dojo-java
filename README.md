@@ -1,5 +1,5 @@
 
-# Resumos Curso Java - DevDojo
+# Resumos do Curso Java - DevDojo
 
 Repositório para armazenar resumos do curso de Java [ DevDojo ] (https://www.youtube.com/@DevDojoBrasil)
 
