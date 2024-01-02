@@ -50,7 +50,7 @@ public class Aula04Operadores {
         System.out.println("IsPlaystationCincoCompravel "+IsPlaystationCincoCompravel);
         System.out.println("PlaystationCincoCompravel "+PlaystationCincoCompravel);
 
-        // = += -= *= /= %=
+        // operadores de atribuição = += -= *= /= %=
         double bonus = 1800;
         bonus += 1000;
         bonus -= 1000;
