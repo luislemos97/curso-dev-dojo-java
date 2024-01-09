@@ -12,7 +12,7 @@ Repositório para armazenar resumos do curso de Java [ DevDojo ] (https://www.yo
 | Aulas | Resumos |
 |-------|---------|
 | Subindo as primeiras aulas e exercícios em Java. 
-|Arquivos de aula 01 ao aula 04 contém :Tipos Primitivos , Operadores Aritméticos, Relacionais, Lógico e de Atribuição [Playlist Maratona Java] (https://www.youtube.com/@DevDojoBrasil)
+|Arquivos de aula 01 ao aula 04 contém: | Tipos Primitivos , Operadores Aritméticos, Relacionais, Lógico e de Atribuição [Playlist Maratona Java] (https://www.youtube.com/@DevDojoBrasil)
 
 
 ## Referências  
