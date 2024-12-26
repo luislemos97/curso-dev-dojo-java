@@ -7,8 +7,7 @@ public class Aula05EstruturaCondicionais {
         if (IsAutorizadoComprarBebida) {
             System.out.println("Autorizado a comprar bebidas alcoólicas.");
         }
-
-        if (IsAutorizadoComprarBebida == false){
+        if (IsAutorizadoComprarBebida == false) {
             System.out.println("Não autorizado a comprar bebidas alcoólicas.");
         }
 
@@ -17,7 +16,8 @@ public class Aula05EstruturaCondicionais {
         if (IsAutorizadoComprarIphone) {
             System.out.println("Autorizado a comprar um Iphone.");
         }
-        if (!IsAutorizadoComprarIphone)
+        if (!IsAutorizadoComprarIphone) {
             System.out.println("Não Autorizado a comprar um Iphone.");
+        }
     }
 }
