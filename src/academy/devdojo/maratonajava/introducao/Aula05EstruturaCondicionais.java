@@ -7,7 +7,7 @@ public class Aula05EstruturaCondicionais {
         if (IsAutorizadoComprarBebida) {
             System.out.println("Autorizado a comprar bebidas alcoólicas.");
         }
-        if (IsAutorizadoComprarBebida == false) {
+        if (!IsAutorizadoComprarBebida) {
             System.out.println("Não autorizado a comprar bebidas alcoólicas.");
         }
 
